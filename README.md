@@ -21,3 +21,6 @@ Each notebook contains code and explanations for different aspects of the music 
 The code in the notebooks requires the following dependencies:
 - Python 3.12
 - Libraries such as NumPy, pandas, scikit-learn, librosa (for audio processing), and matplotlib.
+
+## Project Website
+Find more details on our [project website](https://rudri1202.github.io/music_genre_webpage/)
